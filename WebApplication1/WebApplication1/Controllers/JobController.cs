@@ -14,7 +14,7 @@ namespace WebApplication1.Controllers
                 Field = Field.QA,
                 Requirements = "כישורי בדיקות אוטומטיות",
                 ScopeOfHours = 40,
-                Area = "תל אביב",
+                Area = "Tel Aviv",
                 Hybrid = false
             },
             new Job
@@ -22,7 +22,7 @@ namespace WebApplication1.Controllers
                 Field = Field.Server,
                 Requirements = "ניסיון בפיתוח בסביבת שרת",
                 ScopeOfHours = 45,
-                Area = "חיפה",
+                Area = "Haifa",
                 Hybrid = true
             },
             new Job
@@ -30,7 +30,7 @@ namespace WebApplication1.Controllers
                 Field = Field.Client,
                 Requirements = "יכולת עבודה עם ממשקי משתמש",
                 ScopeOfHours = 35,
-                Area = "ירושלים",
+                Area = "Jerusalem",
                 Hybrid = false
             }
         };
